@@ -20,7 +20,7 @@ npm run build --report
 
 ## 预览
 
- ![image](https://github.com/libaibuaidufu/book-vue/blob/master/book-index.png) 
- ![image](https://github.com/libaibuaidufu/book-vue/blob/master/book-info.png) 
- ![image](https://github.com/libaibuaidufu/book-vue/blob/master/book-search.png) 
- ![image](https://github.com/libaibuaidufu/book-vue/blob/master/book-list.png) 
+ ![image](https://github.com/libaibuaidufu/book-vue/blob/master/book-index.jpg) 
+ ![image](https://github.com/libaibuaidufu/book-vue/blob/master/book-info.jpg) 
+ ![image](https://github.com/libaibuaidufu/book-vue/blob/master/book-search.jpg) 
+ ![image](https://github.com/libaibuaidufu/book-vue/blob/master/book-list.jpg) 
