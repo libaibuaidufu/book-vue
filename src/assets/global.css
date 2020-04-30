@@ -1,0 +1,33 @@
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+a {
+  text-decoration: none;
+}
+
+.router-link-active {
+  text-decoration: none;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: " ";
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.clearfix {
+  *zoom: 1;
+}
+
+.text-center{
+    text-align: center;
+}
