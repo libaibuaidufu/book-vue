@@ -1,6 +1,6 @@
 # book-vue
 
-> A Vue.js project
+> book vue
 
 ## Build Setup
 
@@ -18,4 +18,9 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 预览
+
+ ![image](https://github.com/libaibuaidufu/book-vue/blob/master/book-index.png) 
+ ![image](https://github.com/libaibuaidufu/book-vue/blob/master/book-info.png) 
+ ![image](https://github.com/libaibuaidufu/book-vue/blob/master/book-search.png) 
+ ![image](https://github.com/libaibuaidufu/book-vue/blob/master/book-list.png) 
